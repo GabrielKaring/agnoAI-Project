@@ -1,4 +1,4 @@
-# 🤖 AI Project Architect - Agente de P&D
+# AI Project Arquiteto - Agente de P&D
 
 Este projeto consiste em um **Arquiteto de Agentes de IA Sênior** desenvolvido com a biblioteca [Agno](https://github.com/agno-ai/agno). O agente é especializado em pesquisa e desenvolvimento, capaz de conceber projetos detalhados para novos sistemas autônomos utilizando dados reais e verificados da internet.
 
