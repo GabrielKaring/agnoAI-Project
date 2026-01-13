@@ -1,0 +1,35 @@
+# --- Segurança e Credenciais ---
+.env
+.env.local
+.env.*
+keys.json
+
+# --- Agno (Antigo Phidata) ---
+# Ignora bancos de dados locais e histórico de agentes
+storage/
+*.db
+*.sqlite
+.agno/
+.phidata/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+ENV/
+
+# --- Sistema e IDE ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ambientes Virtuais
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+.env
